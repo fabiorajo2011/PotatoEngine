@@ -2,9 +2,15 @@ bf
 dad
 gf
 bf-car
+mom
 gf-car
 bf-christmas
 gf-christmas
 bf-pixel
 gf-pixel
 bf-pixel-opponent
+gf-tankmen
+pico-speaker
+bf-holding-gf
+pico-player
+tankman-player
